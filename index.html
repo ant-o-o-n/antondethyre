@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Anton Dethyre</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Bandeau blanc pleine largeur sous Anton Dethyre quand ouvert -->
+  <div id="tree-header-bg"></div>
+
+  <!-- Anton Dethyre seul, fixe, animé vers le haut au clic -->
+  <div id="tree-header"></div>
+
+  <!-- Dossiers, scrollables, alignés dynamiquement -->
+  <div id="tree-view">
+    <div id="tree"></div>
+  </div>
+
+  <div id="gallery" class="hidden">
+    <button id="gallery-close" aria-label="Fermer">×</button>
+    <div id="gallery-container">
+      <img id="gallery-img" src="" alt="">
+      <iframe id="gallery-iframe" src="" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div id="breadcrumb"></div>
+  </div>
+
+  <div id="hover-preview">
+    <img id="preview-img" src="" alt="">
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

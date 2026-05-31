@@ -1,0 +1,99 @@
+{
+  "projets": {
+    "2026": [
+      {
+        "titre": "Midnattssprikor",
+        "slug": "midnattssprikor",
+        "statut": "en-cours",
+        "texte": null,
+        "expo": [
+          {
+            "titre": "Correspondance, galerie Cornetto, Namur, 2026",
+            "slug": "namur-2026",
+            "images": ["01.jpg", "02.jpg", "03.jpg"]
+          }
+        ],
+        "edition": null,
+        "images": [],
+        "video": null
+      },
+      {
+        "titre": "_2026",
+        "slug": "_2026",
+        "statut": "en-cours",
+        "texte": null,
+        "expo": [],
+        "edition": null,
+        "images": [],
+        "video": null
+      }
+    ],
+    "2025": [
+      {
+        "titre": "Adret",
+        "slug": "adret",
+        "statut": "terminé",
+        "texte": "J'observe une petite plaque de métal boulonnée au pylône d'un télésiège. Elle semble dénuée de toute fonction, elle ne dialogue avec aucune autre pièce technique, elle est autonome, inutile. Mais quand soudain le vent se lève, elle est impossible à ignorer. Elle se heurte à la colonne dans un tremblement assourdissant.\n\nCette petite plaque de métal devient symbole des stations, qui se figent, habitées et superflues, car la neige a fondu. La montagne est à nouveau souveraine. Dans les ruines du capitalisme, mon regard hésite, entre fascination et malaise. À travers des images fantasmées, tachées des travers humains, l'appareil cherche les derniers fragments de présence humaine, avec équité pour le banal et le spectaculaire.",
+        "images": ["adret_1.jpg", "adret_2.jpg", "adret_3.jpg", "adret_4.jpg", "adret_5.jpg", "adret_6.jpg"],
+        "expo": [
+          {
+            "titre": "Centre culturel du Crous, 2025",
+            "slug": "crous-2025",
+            "images": ["2025-crous_1.jpg"]
+          }
+        ],
+        "edition": null,
+        "video": null
+      },
+      {
+        "titre": "Ubac",
+        "slug": "ubac",
+        "statut": "terminé",
+        "texte": "L'Ubac est la face nord de la montagne, celle qui est la plus exposée à l'ombre. Ces photos sont prises à la lisière de la ville et de la montagne. Ces lieux deviennent le décor d'une absence, une ville témoin où l'on se focalise sur des détails apparemment insignifiants. La montagne devient un objet lointain, en arrière-plan elle perd sa grandeur, son côté abrupt.",
+        "expo": [],
+        "edition": null,
+        "images": ["ubac_1.webp", "ubac_2.webp","ubac_3.webp","ubac_4.webp","ubac_5.webp","ubac_6.webp","ubac_7.webp","ubac_8.webp","ubac_9.webp","ubac_10.webp","ubac_11.webp","ubac_12.webp"],
+        "video": null
+      },
+      {
+        "titre": "Malm",
+        "slug": "malm",
+        "statut": "terminé",
+        "texte": "Cette série photo est la tentative de photographier le bourdonnement d'un frigo, le bruit de fond d'un appartement, de photographier ce qu'il a de singulier quand ce n'est plus incarner par les objets. Ce sont nos plancher, nos plan de travaille, nos rideau de douches, ce sont ces surfaces que nous pensons identique, mais dont les rides nous appartiennent.",
+        "expo": [],
+        "edition": null,
+        "images": ["malm_1.webp", "malm_2.webp","malm_3.webp","malm_4.webp","malm_5.webp","malm_6.webp","malm_7.webp"],
+        "video": null
+      },
+      {
+        "titre": "Tir à sec",
+        "slug": "tir-a-sec",
+        "statut": "terminé",
+        "texte": "Une carabine dans une cuisine, des coups de feux au paradis blanc. Ce film s'éloigne des représentations médiatiques et pose un regard sur les creux de la performance, sur ces lieux habités par le bruit de l'effort et la lassitude du geste.",
+        "expo": [],
+        "edition": null,
+        "images": [],
+        "video": "https://youtu.be/PN1uusZOZgo"
+      },
+      {
+        "titre": "Col des Sauts",
+        "slug": "col-des-sauts",
+        "statut": "en-cours",
+        "texte": null,
+        "expo": [],
+        "edition": null,
+        "images": [],
+        "video": "https://youtu.be/Otew93C9_aM"
+      }
+    ]
+  },
+  "infos": {
+    "contact": {
+      "email": "ad@antondethyre.fr",
+      "ville": "Paris"
+    },
+    "commandes": {
+      "images": ["antondethyre_commercial-1.webp", "antondethyre_commercial-2.webp", "antondethyre_commercial-3.webp",   "antondethyre_commercial-6.webp", "antondethyre_commercial-5.webp"]
+    }
+  }
+}
