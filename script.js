@@ -43,6 +43,7 @@ function buildTree(data) {
   const years = Object.keys(data.projets).sort((a, b) => b - a);
   years.forEach(year => {
     const [yearRow, yearEl] = togglable(makeRow(year, 1), makeContainer());
+    yearEl.classList.add('year-el');
     data.projets[year].forEach(projet => buildProject(projet, year, yearEl));
     rootChildren.appendChild(yearRow);
     rootChildren.appendChild(yearEl);
