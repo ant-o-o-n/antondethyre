@@ -24,7 +24,7 @@
         "texte": null,
         "expo": [],
         "edition": null,
-        "images": [],
+        "images": ["_2026_1.jpg", "_2026_2.jpg", "_2026_3.jpg", "_2026_4.jpg", "_2026_5.jpg"],
         "video": null
       }
     ],
@@ -34,7 +34,7 @@
         "slug": "adret",
         "statut": "terminé",
         "texte": "J'observe une petite plaque de métal boulonnée au pylône d'un télésiège. Elle semble dénuée de toute fonction, elle ne dialogue avec aucune autre pièce technique, elle est autonome, inutile. Mais quand soudain le vent se lève, elle est impossible à ignorer. Elle se heurte à la colonne dans un tremblement assourdissant.\n\nCette petite plaque de métal devient symbole des stations, qui se figent, habitées et superflues, car la neige a fondu. La montagne est à nouveau souveraine. Dans les ruines du capitalisme, mon regard hésite, entre fascination et malaise. À travers des images fantasmées, tachées des travers humains, l'appareil cherche les derniers fragments de présence humaine, avec équité pour le banal et le spectaculaire.",
-        "images": ["adret_1.jpg", "adret_2.jpg", "adret_3.jpg", "adret_4.jpg", "adret_5.jpg", "adret_6.jpg"],
+        "images": ["adret_1.jpg","adret_7.jpg","adret_5.jpg","adret_8.jpg","adret_9.jpg", "adret_2.jpg", "adret_3.jpg","adret_10.jpg","adret_11.jpg","adret_12.jpg", "adret_6.jpg", "adret_13.jpg"],
         "expo": [
           {
             "titre": "Centre culturel du Crous, 2025",

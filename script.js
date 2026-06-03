@@ -160,7 +160,7 @@ function buildInfos(infos, parent) {
 
   // commandes
   if (infos.commandes && infos.commandes.images && infos.commandes.images.length) {
-    const [cmdRow, cmdEl] = togglable(makeRow('commandes', 2), makeContainer());
+    const [cmdRow, cmdEl] = togglable(makeRow('projets commerciaux', 2), makeContainer());
     setupHover(cmdRow, 'images/commandes/cover.jpg');
     const imgRow = makeRow('images', 3, 'action');
     imgRow.addEventListener('click', e => {
