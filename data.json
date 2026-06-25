@@ -26,7 +26,17 @@
         "edition": null,
         "images": ["_2026_1.jpg", "_2026_2.jpg", "_2026_3.jpg", "_2026_4.jpg", "_2026_5.jpg"],
         "video": null
-      }
+      },
+      {
+        "titre": "Luossavaara",
+        "slug": "luossavaara",
+        "statut": "terminé",
+        "texte": "Ce mémoire, mon regard, est comme cette montagne : coupé en deux. D'un côté, j'ai grandi au pied de ces paysages modifiés, arrangés par et pour le capitalisme. Ce champ visuel s'est imprégné dans ma rétine avec le temps, les infrastructures sont devenues une évidence, presque une norme, quelque chose de justifié, d'intégré. De l'autre, sous ces structures, j'ai commencé à découvrir d'autres récits. Plus libres. Une montagne spirituelle mais pas religieuse. Une montagne que l'on habite avec notre temps, mais où reviennent, depuis des siècles, sous différentes formes, les mêmes croyances, les mêmes pensées. Une montagne qui n'est pas seulement une accumulation minérale ou un point sur une carte, mais presque une personnification, un ami, une lutte, un compagnon de vie, une entité éternellement présente.",
+        "images": ["luossavaara_01.jpg", "luossavaara_02.jpg","luossavaara_03.jpg", "luossavaara_04.jpg", "luossavaara_05.jpg", "luossavaara_07.jpg", "luossavaara_08.jpg", "luossavaara_09.jpg", "luossavaara_10.jpg", "luossavaara_11.jpg", "luossavaara_98.jpg", "luossavaara_99.jpg"],
+        "video": null,
+        "edition": null,
+        "expo": []
+    }
     ],
     "2025": [
       {
